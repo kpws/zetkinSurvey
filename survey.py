@@ -43,7 +43,7 @@ useCache = False #set to false after first run to use cache instead of downloadi
 
 #### program code ####
 
-histogramFilename = 'figs/submissionsByDate.pdf'
+histogramFilename = 'submissionsByDate.pdf'
 url = 'https://api.zetk.in/v1'
 
 if useCache:
